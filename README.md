@@ -50,6 +50,7 @@
 pip install -r requirements.txt
 ```
 
-``` Запуск:
+Запуск программы
+``` 
 python main.py
 ```
